@@ -1,4 +1,4 @@
 scala
 =====
 
-Scala Sample programs
+Scala sample programs.
