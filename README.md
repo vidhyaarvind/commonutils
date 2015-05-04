@@ -1,4 +1,4 @@
-scala
+CommonUtils
 =====
 
-Scala sample programs.
+Some commonutils i use
