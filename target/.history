@@ -1,0 +1,9 @@
+exit
+run hello
+reload
+run hello
+exit
+reload
+run common.utils.ZookeeperOps
+run common.utils.ZookeeperOps localhost:2181 list /
+exit
